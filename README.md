@@ -24,3 +24,9 @@ For visualizations, I used **matplotlib and scipy** to add the function itself.
 ## Dataset:  
 The dataset was **randomly created using pandas**, this ensures we do **not bring bias** into the set.  
 It has 120 rows. 
+
+# Contact me:
+*   LinkedIn: https://www.linkedin.com/in/jytran-datascience
+
+My name is Jean-Yves TRAN, I bring 9 years of promotional video creation and project management into Data. My goal is to  
+first become an ML Engineer and leverage that experience to mature into a Data Scientist.
